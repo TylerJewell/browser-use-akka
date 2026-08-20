@@ -33,7 +33,7 @@ under `browser-use-port/`.
 
 📉 372 Python lines → **428 Java lines**<br>
 📁 385 files → **16 files**<br>
-⚡ 26.26 → **2.56** microseconds, one step decided<br>
+⚡ 27.2 → **2.20** microseconds, one step decided<br>
 🎯 366 answers compared → **366 of 366 agree**<br>
 🧪 0 rules broken on purpose to check a test notices → **18**<br>
 🙋 0 questions to a human → **0**
@@ -48,9 +48,9 @@ show, are written up next to the specification in `akka-specify-harness` under
 
 ## What it took to build
 
-⏱️ **0.8 hours** from the first command to the published repository, **0.8** of them active<br>
-💬 **168** exchanges with the model<br>
-✍️ **155,123** tokens written by the model, **23,843,518** counting everything sent and re-sent<br>
+⏱️ **0.9 hours** from the first command to the published repository, **0.9** of them active<br>
+💬 **197** exchanges with the model<br>
+✍️ **176,962** tokens written by the model, **31,250,838** counting everything sent and re-sent<br>
 🙋 **0** questions to a human<br>
 🧪 **52** tests
 
